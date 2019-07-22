@@ -1,0 +1,33 @@
+{
+    "admin": [
+        "ub08be39567ab3c52f24b5732ac4ae571",
+        "u9f19c87f9d8f870a69297e8936c56d87",
+        "uca478639dd9cf20abeb8ca8920c6a7ab"
+    ],
+    "blacklist": {},
+    "bots": [
+        "ue441d8d1f5f55ca81f96a25862bbb63d"
+    ],
+    "mimic": {
+        "copy": false,
+        "status": false,
+        "target": {
+            "u00da2dca96e5dc6ec5a8207ef50b8678": true,
+            "u8f704846b691ebe8d089c140549ce861": true,
+            "ue441d8d1f5f55ca81f96a25862bbb63d": true
+        }
+    },
+    "owners": [
+        "u00da2dca96e5dc6ec5a8207ef50b8678",
+        "u8f704846b691ebe8d089c140549ce861"
+    ],
+    "s": {
+        "c3a3b11296bb1997a4b4f149723c4e9a4": [
+            "ud5ff1dff426cf9e3030c7ac2a61512f0"
+        ],
+        "c7e69d5297028d6d4b7a3b1bb4b510ac0": [
+            "u7a060714f429400989f85139b32e26a9"
+        ]
+    },
+    "user": {}
+}
