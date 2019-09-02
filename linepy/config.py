@@ -31,7 +31,7 @@ class Config(object):
     #APP_TYPE    = "IOS\t8.14.2\tIphone X\t8.1.0"
     APP_VER     = '8.13.3'
     CARRIER     = '51089, 1-0'
-    SYSTEM_NAME = 'Kazumi'
+    SYSTEM_NAME = 'YaeSakura'
     SYSTEM_VER  = '10.12.0'
     IP_ADDR     = '8.8.8.8'
     EMAIL_REGEX = re.compile(r"[^@]+@[^@]+\.[^@]+")
